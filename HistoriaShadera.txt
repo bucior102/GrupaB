@@ -1,0 +1,13 @@
+Dawno dawno temu w krainie GameDev-u by³ sobie shader zwany Materia³em Bazowym.
+Ma³y, samotny, zagubiony i nie przystosowany.
+W ca³ym contentcie mia³ tylko kilku znajomych - instancje materia³u.
+W³adca krainy zauwa¿y³, ¿e Materia³ Bazowy jest za s³aby by w niej przetrwaæ.
+Kaza³ wiêc mu siê rozwijaæ, co shader potraktowa³ bardzo powa¿nie.
+Mija³y dni, tygodnie, miesi¹ce w trakcie których shader rozrasta³ siê o kolejne linie kodu HLSL.
+Mia³ wszystko - dziesi¹tki tekstur, setki parametrów i kilka branchy.
+Mimo, ¿e oparty by³ na starej technologii, Materia³ Bazowy potrafi³ dorównaæ samym PBR-om.
+Móg³ nawet rozpadaæ siê na tysi¹ce ma³ych trójk¹cików - a nie ka¿dy tak potrafi³.
+I wtedy pojawi³a siê ona, której ba³ siê ka¿dy asset - Optymalizacja.
+Shader straci³ wielu przyjació³ - instancje, tekstury, parametry...
+... lecz poœwiêcenie siê op³aci³o - jest 30 FPS-ów.
+Micha³ Gawron
